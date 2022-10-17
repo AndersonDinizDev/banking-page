@@ -191,6 +191,12 @@ canvas {
     align-items: center;
 }
 
+.selection-button-2 {
+    margin: 457px 0px 0px 850px;
+    position: absolute;
+    transform: rotate(90deg);
+}
+
 .container-bottom-1 {
     display: flex;
     justify-content: center;
@@ -414,4 +420,5 @@ canvas {
 .selection-button {
     display: flex;
     justify-content: center;
+    margin: 0px 0px 20px 0px;
 }
