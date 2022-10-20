@@ -394,6 +394,7 @@ canvas {
 
 .container-partners {
     margin-top: 100px;
+    background-color: rgba(252, 224, 239, 0.2);
 }
 
 .partners {
@@ -420,5 +421,83 @@ canvas {
 .selection-button {
     display: flex;
     justify-content: center;
-    margin: 0px 0px 20px 0px;
+}
+
+.container-portfolio-1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 106px;
+}
+
+.container-portfolio-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 760px;
+}
+
+.portfolio-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #343434;
+    margin-bottom: 20px;
+}
+
+.portflio-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
+}
+
+.container-portfolio-3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 84px;
+    margin-bottom: 55px;
+}
+
+.c-p-3-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 43px;
+    color: #ED017F;
+}
+
+.c-p-3-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: #676767;
+}
+
+.c-p-4-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 43px;
+    color: #343434;
+}
+
+.c-p-4-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: #676767;
+}
+
+.container-portfolio-4 {
+    display: flex;
+    justify-content: space-around;
 }
