@@ -38,6 +38,11 @@ nav ul li a {
     font-size: 12px;
     line-height: 20px;
     color: #010101;
+    cursor: pointer;
+}
+
+nav ul li a:hover {
+    color: #ED017F;
 }
 
 li {
@@ -49,6 +54,7 @@ li {
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    cursor: pointer;
 }
 
 .button-header {
@@ -64,6 +70,13 @@ li {
     line-height: 20px;
     letter-spacing: 2px;
     color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-header:hover {
+    background-color: #FFFFFF;
+    border: 1px solid #ED017F;
+    color: #ED017F;
 }
 
 .container-left {
@@ -109,6 +122,13 @@ h1 {
     line-height: 20px;
     letter-spacing: 2px;
     color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-container-left-1:hover {
+    background-color: #FFFFFF;
+    border: 1px solid #ED017F;
+    color: #ED017F;
 }
 
 .button-container-left-2 {
@@ -122,12 +142,51 @@ h1 {
     font-size: 12px;
     line-height: 20px;
     color: #ED017F;
+    cursor: pointer;
+}
+
+.button-container-left-2:hover {
+    background-color: #ED017F;
+    border: none;
+    color: #FFFFFF;
 }
 
 .social-media {
     display: flex;
     flex-direction: row;
     margin-top: 185px;
+}
+
+.facebook-img-2 {
+    cursor: pointer;
+}
+
+.facebook-img-2:hover {
+    opacity: 0.4;
+}
+
+.facebook-img-3 {
+    cursor: pointer;
+}
+
+.facebook-img-3:hover {
+    opacity: 0.4;
+}
+
+.facebook-img-4 {
+    cursor: pointer;
+}
+
+.facebook-img-4:hover {
+    opacity: 0.4;
+}
+
+.facebook-img-5 {
+    cursor: pointer;
+}
+
+.facebook-img-5:hover {
+    opacity: 0.4;
 }
 
 .call-img {
@@ -189,6 +248,12 @@ canvas {
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
+}
+
+.right-button-1:hover {
+    border: 1px solid #ED017F;
+    color: #ED017F;
 }
 
 .selection-button-2 {
@@ -409,6 +474,7 @@ canvas {
     line-height: 23px;
     letter-spacing: 2.1px;
     color: #343434;
+    margin-top: 70px;
 }
 
 .partners-img {
@@ -421,6 +487,8 @@ canvas {
 .selection-button {
     display: flex;
     justify-content: center;
+    padding-bottom: 20px;
+    gap: 10px;
 }
 
 .container-portfolio-1 {
@@ -648,6 +716,8 @@ canvas {
     border-radius: 4px;
     border: 1px solid #CCCCCC;
     background-color: #FFFFFF;
+    font-style: italic;
+    font-size: 13px;
 }
 
 .subscribe {
@@ -662,6 +732,13 @@ canvas {
     line-height: 20px;
     letter-spacing: 2px;
     color: #FFFFFF;
+    cursor: pointer;
+}
+
+.subscribe:hover {
+    background-color: #FFFFFF;
+    border: 1px solid #ED017F;
+    color: #ED017F;
 }
 
 .container-footer {
@@ -695,6 +772,38 @@ canvas {
 .footer-1-social {
     gap: 20px;
     display: flex;
+}
+
+.face-img {
+    cursor: pointer;
+}
+
+.face-img:hover {
+    opacity: 0.4;
+}
+
+.youtube-img {
+    cursor: pointer;
+}
+
+.youtube-img:hover {
+    opacity: 0.4;
+}
+
+.linkedin-img {
+    cursor: pointer;
+}
+
+.linkedin-img:hover {
+    opacity: 0.4;
+}
+
+.insta-img {
+    cursor: pointer;
+}
+
+.insta-img:hover {
+    opacity: 0.4;
 }
 
 .footer-2 {
