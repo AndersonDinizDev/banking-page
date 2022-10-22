@@ -81,13 +81,15 @@ li {
 
 .container-left {
     display: inline-block;
-    width: 50%;
     position: relative;
+    width: 50%;
     height: 802px;
 }
 
 .content-1 {
-    margin: 200px 0px 0px 350px;
+    top: 25%;
+    left: 20%;
+    position: relative;
 }
 
 h1 {
@@ -233,7 +235,6 @@ canvas {
 
 .right-button-1 {
     position: absolute;
-    margin: 256px 0px 0px 700px;
     width: 204px;
     height: 71px;
     border: none;
@@ -249,6 +250,8 @@ canvas {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    top: 256px;
+    right: 80px;
 }
 
 .right-button-1:hover {
@@ -257,9 +260,11 @@ canvas {
 }
 
 .selection-button-2 {
-    margin: 457px 0px 0px 850px;
     position: absolute;
     transform: rotate(90deg);
+    top: 300px;
+    right: 200px;
+    bottom: 150px;
 }
 
 .container-bottom-1 {
