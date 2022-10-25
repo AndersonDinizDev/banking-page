@@ -39,6 +39,7 @@ nav ul li a {
     line-height: 20px;
     color: #010101;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 nav ul li a:hover {
@@ -71,6 +72,7 @@ li {
     letter-spacing: 2px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .button-header:hover {
@@ -125,6 +127,7 @@ h1 {
     letter-spacing: 2px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .button-container-left-1:hover {
@@ -145,6 +148,7 @@ h1 {
     line-height: 20px;
     color: #ED017F;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .button-container-left-2:hover {
@@ -252,6 +256,7 @@ canvas {
     cursor: pointer;
     top: 256px;
     right: 80px;
+    transition: 0.5s;
 }
 
 .right-button-1:hover {
@@ -738,6 +743,7 @@ canvas {
     letter-spacing: 2px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .subscribe:hover {
