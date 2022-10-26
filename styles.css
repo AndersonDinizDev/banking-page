@@ -838,6 +838,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-2-link-1:hover {
+    text-decoration: underline;
 }
 
 .footer-2-link-2 {
@@ -846,6 +851,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-2-link-2:hover {
+    text-decoration: underline;
 }
 
 .footer-2-link-3 {
@@ -854,6 +864,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-2-link-3:hover {
+    text-decoration: underline;
 }
 
 .footer-2-link-4 {
@@ -862,6 +877,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-2-link-4:hover {
+    text-decoration: underline;
 }
 
 .footer-2-link-5 {
@@ -870,6 +890,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-2-link-5:hover {
+    text-decoration: underline;
 }
 
 .footer-3 {
@@ -893,6 +918,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-3-link-1:hover {
+    text-decoration: underline;
 }
 
 .footer-3-link-2 {
@@ -901,6 +931,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-3-link-2:hover {
+    text-decoration: underline;
 }
 
 .footer-3-link-3 {
@@ -909,6 +944,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-3-link-3:hover {
+    text-decoration: underline;
 }
 
 .footer-3-link-4 {
@@ -917,6 +957,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-3-link-4:hover {
+    text-decoration: underline;
 }
 
 .footer-3-link-5 {
@@ -925,8 +970,12 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
 }
 
+.footer-3-link-5:hover {
+    text-decoration: underline;
+}
 
 .footer-4 {
     width: 180px;
@@ -949,6 +998,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-4-link-1:hover {
+    text-decoration: underline;
 }
 
 .footer-4-link-2 {
@@ -957,6 +1011,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-4-link-2:hover {
+    text-decoration: underline;
 }
 
 .footer-4-link-3 {
@@ -965,6 +1024,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-4-link-3:hover {
+    text-decoration: underline;
 }
 
 .footer-4-link-4 {
@@ -973,6 +1037,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-4-link-4:hover {
+    text-decoration: underline;
 }
 
 .footer-4-link-5 {
@@ -981,6 +1050,11 @@ canvas {
     font-size: 14px;
     line-height: 22px;
     color: #676767;
+    cursor: pointer;
+}
+
+.footer-4-link-5:hover {
+    text-decoration: underline;
 }
 
 .footer-5 {
