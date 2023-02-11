@@ -1,5 +1,5 @@
 <h1>Banking Landing Page</h1>
-Landing-Page feita para treinar posicionamento de itens com Display-Flex.
+Landing-Page feita para treinar posicionamento de itens com FlexBox.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
