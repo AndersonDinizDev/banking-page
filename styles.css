@@ -230,11 +230,13 @@ canvas {
     display: inline-block;
     position: absolute;
     width: 50%;
-    height: 802px;
+    height: 690px;
+    background: #FFEAF5;
 }
 
 .img-right {
     float: right;
+    margin-top: 130px;
 }
 
 .right-button-1 {
@@ -262,14 +264,6 @@ canvas {
 .right-button-1:hover {
     border: 1px solid #ED017F;
     color: #ED017F;
-}
-
-.selection-button-2 {
-    position: absolute;
-    transform: rotate(90deg);
-    top: 300px;
-    right: 200px;
-    bottom: 150px;
 }
 
 .container-bottom-1 {
