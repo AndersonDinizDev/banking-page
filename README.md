@@ -1,5 +1,5 @@
 <h1>Banking Landing Page</h1>
-Landing-Page made to train item positioning with FlexBox.
+Responsive landing-page using FlexBox for positioning elements.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
