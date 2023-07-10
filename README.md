@@ -1,4 +1,4 @@
-<h1>Banking Landing Page</h1>
+<h1>Banking Page</h1>
 Responsive landing-page using FlexBox for positioning elements.
 
 <h2>Tecnologias Utilizadas:</h2>
